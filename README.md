@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning AWS Amplify
-- 👯 I’m looking to collaborate on Android Project
+- 👯 I’m AWS Amplify Contributor
 - 🤔 I’m looking for help with Data Structure and Algorithm 
 - 💬 Ask me about Andorid or any tech related stuff
 - 📫 How to reach me: [Instagram - @hellosagarkhurana](https://www.instagram.com/hellosagarkhurana/), [Linkedin - @sagarkhurana](https://www.linkedin.com/in/sagar-khurana-b98a9418b/)
