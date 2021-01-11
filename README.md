@@ -1,7 +1,7 @@
 ### Hola, I'm Sagar Khurana! 👋
 
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning AWS Amplify
+- 🔭 I’m currently working on Jenkins Open Source Project
+- 🌱 I’m currently learning Web Dev
 - 👯 I’m AWS Amplify Contributor
 - 🤔 I’m looking for help with Data Structure and Algorithm 
 - 💬 Ask me about Andorid or any tech related stuff
