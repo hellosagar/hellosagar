@@ -1,4 +1,4 @@
-# Hola, I'm Sagar Khurana! 👋
+## Hola, I'm Sagar Khurana! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-sagarkhurana-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sagar-khurana-b98a9418b/)](https://www.linkedin.com/in/sagar-khurana-b98a9418b/)
 [![Twitter Badge](http://img.shields.io/badge/-@SagarKh03980377-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/prathamk22)](https://twitter.com/SagarKh03980377)
@@ -6,6 +6,7 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
+## 🧐 About
 - 🔭 I’m currently working on Jenkins Open Source Project
 - 🌱 I’m currently learning Web Dev
 - 👯 I’m AWS Amplify Contributor
