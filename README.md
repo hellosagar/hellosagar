@@ -10,8 +10,5 @@
 - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio
 
 
-![Satyamurti"s Status](https://github-readme-stats.vercel.app/api?username=hellosagar&show_icons=true&hide_border=true)
-![Satyamurti"s Status](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosagar&theme=vue&hide=css,html)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellosagar&amp;theme=light&amp;hide_langs_below=1%22%20style=%22max-width:100%">
+![Sagar"s Status](https://github-readme-stats.vercel.app/api?username=hellosagar&show_icons=true&hide_border=true)
 <img src="https://github-readme-stats.vercel.app/api?username=hellosagar&&show_icons=true&title_color=ffffff&icon_color=79FE96&text_color=daf7dc&bg_color=191919">
