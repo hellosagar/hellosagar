@@ -11,7 +11,6 @@
 - 👯 I’m AWS Amplify Contributor
 - 🤔 I’m looking for help with Data Structure and Algorithm 
 - 💬 Ask me about Andorid or any tech related stuff
-- 📫 How to reach me: [Linkedin - @sagarkhurana](https://www.linkedin.com/in/sagar-khurana-b98a9418b/), [Instagram - @hellosagarkhurana](https://www.instagram.com/hellosagarkhurana/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio
 
