@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Web Dev
 - 👯 I’m AWS Amplify Contributor
 - 🤔 I’m looking for help with Data Structure and Algorithm 
-- 💬 Ask me about Andorid or any tech related stuff
+- 💬 Ask me about Andorid App Development or any tech related stuff
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio
 
