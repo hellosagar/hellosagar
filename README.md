@@ -8,7 +8,7 @@
 
 ## 🧐 About
 - 🔭 I’m currently working on Jenkins Open Source Project
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning Jetpack Compose
 - 👯 I’m AWS Amplify Contributor
 - 🤔 I’m looking for help with Data Structure and Algorithm 
 - 💬 Ask me about Andorid App Development or any tech related stuff
