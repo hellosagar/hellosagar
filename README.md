@@ -7,8 +7,8 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ## 🧐 About
-- 🔭 I’m currently working on Jenkins Open Source Project
-- 🌱 I’m currently learning Jetpack Compose
+- 🔭 I’m currently working on Android Projects
+- 🌱 I’m currently learning Spring Boot
 - 👯 I’m AWS Amplify Contributor
 - 🤔 I’m looking for help with Data Structure and Algorithm 
 - 💬 Ask me about Android App Development or any tech related stuff
