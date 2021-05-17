@@ -8,7 +8,7 @@
 
 ## 🧐 About
 - 🔭 I’m currently working on Android Projects
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning TDD, Machine learning with Android
 - 👯 I’m AWS Amplify Contributor
 - 🤔 I’m looking for help with Data Structure and Algorithm 
 - 💬 Ask me about Android App Development or any tech related stuff
