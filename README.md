@@ -15,5 +15,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio
 
-![Sagar"s Status](https://github-readme-stats.vercel.app/api?username=hellosagar&show_icons=true&hide_border=true)
+![Sagar"s Status](https://github-readme-stats.vercel.app/api?username=hellosagar&show_icons=true&hide_border=true&theme=vue)
 
