@@ -12,7 +12,6 @@
 - 👯 I’m AWS Amplify Contributor
 - 🤔 I’m looking for help with Data Structure and Algorithm 
 - 💬 Ask me about Android App Development or any tech related stuff
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio
 
 ![Sagar"s Status](https://github-readme-stats.vercel.app/api?username=hellosagar&show_icons=true&hide_border=true&theme=vue)
