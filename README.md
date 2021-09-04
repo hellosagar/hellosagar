@@ -16,6 +16,8 @@
 
 <br/>
 
+---
+
 <p align="center">
   <img width="49%" alt="Sagar's Status" src="https://github-readme-stats.vercel.app/api?username=hellosagar&show_icons=true&hide_border=true&theme=vue">
   <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=hellosagar&hide_border=true&theme=vue">
