@@ -14,7 +14,7 @@
 - 💬 Ask me about Android App Development or any tech related stuff
 - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio
 
----
+<br/>
 
 <p align="center">
   <img width="49%" alt="Sagar's Status" src="https://github-readme-stats.vercel.app/api?username=hellosagar&show_icons=true&hide_border=true&theme=vue">
