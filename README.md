@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sagarkhurana00786@gmail.com)](mailto:sagarkhurana00786@gmail.com)
 
 ## 🧐 About
-- 🔭 I’m currently working on Android Projects
-- 🌱 I’m currently learning TDD, Machine learning with Android
+- 🔭 I’m currently working on Adjust SDK
+- 🌱 I’m currently learning Java Design Patterns
 - 👯 I’m AWS Amplify Contributor
 - 🤔 I’m looking for help with Data Structure and Algorithm 
 - 💬 Ask me about Android App Development or any tech related stuff
