@@ -6,7 +6,7 @@
 
 ## 🧐 About
 - 🔭 I’m currently working on Adjust SDK
-- 🌱 I’m currently learning Unit Testing
+- 🌱 I’m currently learning Property based testing
 - 👯 I’m AWS Amplify Contributor
 - 🤔 I’m looking for help with Data Structure and Algorithm 
 - 💬 Ask me about Android App Development or any tech related stuff
