@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sagarkhurana00786@gmail.com)](mailto:sagarkhurana00786@gmail.com)
 
 ## 🧐 About
-- 🔭 I’m currently working on GetYourGuide Android App
+- 🔭 I’m currently working on GetYourGuide Android Application
 - 🌱 I’m currently learning Property based testing
 - 👯 I’m Robolectric and AWS Amplify Contributor
 - 🤔 I’m looking for help with Data Structure and Algorithm 
