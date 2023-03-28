@@ -12,3 +12,5 @@
 - 💬 Ask me about Android App Development or any tech related stuff
 - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio
 
+gtemp
+temp2
